@@ -66,7 +66,7 @@ Please note the following so that we can all have a relaxed journey:
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike fit for spring.
 
 ### <a name="short"></a> Short Version
-**"This is all too much text for me!" We even thought of you! Here's the short version again:
+**"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the nation together
 - Friday 11:00, 45 km from Blochplatz at S+U Gesundbrunnen
 - Friday 15:30, 24 km from Postplatz at S Hennigsdorf
