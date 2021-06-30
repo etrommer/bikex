@@ -22,7 +22,7 @@ Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
--Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [TODO FORMULAR]
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [TODO FORMULAR]
 - Beschriftet euer Gepäck mit Namen und Adresse. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -60,7 +60,7 @@ Each group will be accompanied by two experienced to Grünefeld and back-cyclist
 **"Surely that costs extra!"**, we can hear you shouting. But no! It's free! We're going anyway and we'd love to have you with us :)
 
 Please note the following so that we can all have a relaxed journey:
--Register on the following form if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [TODO FORM]
+- Register on the following form if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [TODO FORM]
 - Label your luggage with your name and address.
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike fit for spring.
