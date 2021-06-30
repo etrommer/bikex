@@ -31,8 +31,8 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
 - Zusammen mit dem Fahrrad zur Nation
 - Zwei Touren je Wochenende am 16. und 23.7.:
-- Freitag 11:00, 45 km ab Blochplatz am S+U Gesundbrunnen
-- Freitag 15:30, 24 km ab Postplatz am S Hennigsdorf
+- Freitag 11:00, 45 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
+- Freitag 15:30, 24 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
 - Vorher registrieren unter: [TODO Formular]
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
@@ -68,8 +68,8 @@ Please note the following so that we can all have a relaxed journey:
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the nation together
-- Friday 11:00, 45 km from Blochplatz at S+U Gesundbrunnen
-- Friday 15:30, 24 km from Postplatz at S Hennigsdorf
+- Friday 11:00, 45 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
+- Friday 15:30, 24 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
 - Register beforehand at: [TODO form]
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
