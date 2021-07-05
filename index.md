@@ -37,7 +37,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Telegram-Gruppe für Austausch und Fragen: https://t.me/joinchat/OOwbQd5xRctiMTYy
+- Telegram-Gruppe für Austausch und Fragen: [https://t.me/joinchat/OOwbQd5xRctiMTYy](https://t.me/joinchat/OOwbQd5xRctiMTYy)
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
@@ -75,6 +75,6 @@ Please note the following so that we can all have a relaxed journey:
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
-- If you have any questions please join our Telegram group: https://t.me/joinchat/OOwbQd5xRctiMTYy
+- If you have any questions please join our Telegram group: [https://t.me/joinchat/OOwbQd5xRctiMTYy](https://t.me/joinchat/OOwbQd5xRctiMTYy)
 
 **Get going with us! We look forward to seeing you.**
