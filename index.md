@@ -12,6 +12,7 @@ Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das da
 - Am Freitagnachmittag begleiten wir euch alternativ auf einer noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km bis ins Glück.
  
 Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
+
 Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)
 Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
@@ -54,6 +55,7 @@ That's why we have come up with a medium-sporty event in a class of its own that
 - Alternatively, on Friday afternoon we will accompany you on an even shorter route. From [S-Bahn station Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it's only 24 km to happiness.
  
 Each group will be accompanied by two experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
+
 Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)
 Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
