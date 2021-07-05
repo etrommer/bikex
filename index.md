@@ -22,7 +22,7 @@ Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [TODO FORMULAR]
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können. [Nation Fahrradtour Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
 - Beschriftet euer Gepäck mit Namen und Adresse. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -33,7 +33,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Zwei Touren je Wochenende am 16. und 23.7.:
 - Freitag 10:30, 45 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
 - Freitag 15:00, 24 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Vorher registrieren unter: [TODO Formular]
+- Vorher hier registrieren: [Nation Fahrradtour Anmeldung](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -60,7 +60,7 @@ Each group will be accompanied by two experienced to Grünefeld and back-cyclist
 **"Surely that costs extra!"**, we can hear you shouting. But no! It's free! We're going anyway and we'd love to have you with us :)
 
 Please note the following so that we can all have a relaxed journey:
-- Register on the following form if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [TODO FORM]
+- Register on the following form if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
 - Label your luggage with your name and address.
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike fit for spring.
@@ -70,7 +70,7 @@ Please note the following so that we can all have a relaxed journey:
 - Cycling to the nation together
 - Friday 10:30, 45 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
 - Friday 15:00, 24 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
-- Register beforehand at: [TODO form]
+- Register beforehand at: [Nation bike tour registration](https://docs.google.com/forms/d/e/1FAIpQLSc1iLwtnX0_UrH54_iTZacpK8icAXGgiJOj23Npgyox1CRlNw/viewform)
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
