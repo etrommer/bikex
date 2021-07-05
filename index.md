@@ -8,8 +8,8 @@
 Wenn ihr ein Fahrradticket erworben habt, wollen wir euch ermutigen, den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen. Mit "euch" meinen wir auch und vor allem diejenigen unter euch, die unter "Anreise mit dem Fahrrad" bisher verstanden haben, mit dem Fahrrad im Zug nach Nauen zu fahren und nur den letzten Rest auf zwei Rädern zurückzulegen. Gerade in diesem besonderen Jahr wäre es uns aber sehr wichtig, keine übervollen, stickigen Züge zu provozieren.
 
  Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt und bieten in diesem Jahr erstmalig zwei geführte Fahrradtouren für die Anreise an: 
-- Am Freitagfrüh geht es von Nordberlin aus los. Die Strecke ist etwa 45 km lang. 
-- Am Freitagnachmittag begleiten wir euch alternativ auf einer noch deutlich kürzeren Strecke. Vom S-Bahnhof Hennigsdorf aus sind es nur noch läppische 24 km bis ins Glück.
+- Am Freitagfrüh geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
+- Am Freitagnachmittag begleiten wir euch alternativ auf einer noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km bis ins Glück.
  
 Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
@@ -17,7 +17,7 @@ Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 
 **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne\*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
 
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, so dass du den Rücken frei für Wind hast. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, so dass ihr den Rücken frei für Wind habt. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 
@@ -46,8 +46,8 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 If you have purchased a bicycle ticket, we would like to encourage you to begin the trip to the parallel universe by bicycle. By "you" we especially mean those of you who until now thought that "travelling by bicycle" means travelling to Nauen by train and then cycling the last bit. Especially in this very different year, however, it would be very important to us not to provoke overcrowded, stuffy trains.
 
  That's why we've come up with a very special, medium-sporty event this year. For the first time, we are offering two guided bike tours for the journey: 
-- On Friday morning we will set off from North Berlin. The route is about 45 km long. 
-- Alternatively, on Friday afternoon we will accompany you on an even shorter route. From Hennigsdorf S-Bahn station it's only 24 km to happiness.
+- On Friday morning we will set off from [Blochplatz near S Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 45 km long. 
+- Alternatively, on Friday afternoon we will accompany you on an even shorter route. From [S-Bahn station Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it's only 24 km to happiness.
  
 Each group will be accompanied by two experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
 
