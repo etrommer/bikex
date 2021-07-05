@@ -7,7 +7,7 @@
 
 Wenn ihr ein Fahrradticket erworben habt, wollen wir euch ermutigen, den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen. Mit "euch" meinen wir auch und vor allem diejenigen unter euch, die unter "Anreise mit dem Fahrrad" bisher verstanden haben, mit dem Fahrrad im Zug nach Nauen zu fahren und nur den letzten Rest auf zwei Rädern zurückzulegen. Gerade in diesem besonderen Jahr wäre es uns aber sehr wichtig, keine übervollen, stickigen Züge zu provozieren.
 
- Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt und bieten in diesem Jahr erstmalig zwei geführte Fahrradtouren für die Anreise an: 
+Darum haben wir uns ein medium-sportives Event der Extraklasse überlegt, das darüber hinaus auch noch beinahe CO2-neutral ist. Somit bieten wir in diesem Jahr erstmalig zwei geführte Fahrradtouren für die Anreise an: 
 - Am Freitagfrüh geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
 - Am Freitagnachmittag begleiten wir euch alternativ auf einer noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km bis ins Glück.
  
@@ -17,7 +17,7 @@ Jede Gruppe wird von zwei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 
 **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Strecken vorher in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir ne\*n Buddy und hau rein, wenn's dir bei uns zu langsam wird. 
 
-**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, so dass ihr den Rücken frei für Wind habt. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
+**"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransporter, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, dass ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann wahlweise ausgetrunken habt oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
 
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 
@@ -37,6 +37,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
+- Telegram-Gruppe für Austausch und Fragen: https://t.me/joinchat/OOwbQd5xRctiMTYy
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
@@ -45,7 +46,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 
 If you have purchased a bicycle ticket, we would like to encourage you to begin the trip to the parallel universe by bicycle. By "you" we especially mean those of you who until now thought that "travelling by bicycle" means travelling to Nauen by train and then cycling the last bit. Especially in this very different year, however, it would be very important to us not to provoke overcrowded, stuffy trains.
 
- That's why we've come up with a very special, medium-sporty event this year. For the first time, we are offering two guided bike tours for the journey: 
+That's why we have come up with a medium-sporty event in a class of its own that is also almost CO2-neutral. For the first time, we are offering two guided bike tours for the journey: 
 - On Friday morning we will set off from [Blochplatz near S Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 45 km long. 
 - Alternatively, on Friday afternoon we will accompany you on an even shorter route. From [S-Bahn station Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it's only 24 km to happiness.
  
@@ -74,5 +75,6 @@ Please note the following so that we can all have a relaxed journey:
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
+- If you have any questions please join our Telegram group: https://t.me/joinchat/OOwbQd5xRctiMTYy
 
 **Get going with us! We look forward to seeing you.**
