@@ -82,6 +82,6 @@ Please note the following so that we can all have a relaxed journey:
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
-- If you have any questions please join our Telegram group: [https://t.me/joinchat/OOwbQd5xRctiMTYy]()
+- If you have any questions please join our Telegram group: [telegram]()
 
 **Get going with us! We look forward to seeing you.**
