@@ -5,11 +5,11 @@
 ## Deutsch
 [Kurzfassung](#Kurzfassung)
 
-Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle die von Berlin aus zur Nation anreisen bietet sich die Möglichkein der Anreise mit dem Fahrrad. Auch in diesem Jahr können so übervollen, stickigen Züge und Shuttlebusse vermeiden und die von uns ausgekundschaftete Strecke genießenn.
+Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle die von Berlin aus zur Nation wollen bietet sich die Möglichkeit der Anreise mit dem Fahrrad. Auch in diesem Jahr könnt ihr so übervolle, stickige Züge und Shuttlebusse vermeiden und die von uns ausgekundschaftete Strecke genießen.
 
 Nach dem Erfolg im Letzten Jahr gibt es wieder ein von uns angeleirtes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir *vier* geführte Fahrradtouren für die Anreise an: 
 - aus dem Berliner Norden am Freitag jeweils 10.30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
-- von Hennigsdorf Freitag jeweils 11:30 Und und 15:30 Uhr auf der noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km zur NoG.
+- von Hennigsdorf Freitag jeweils 11:30 UHr und 15:30 Uhr auf der noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km zur NoG.
  
 Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
@@ -41,17 +41,17 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Telegram-Gruppe für Austausch und Fragen: [https://t.me/joinchat/OOwbQd5xRctiMTYy]()
+- Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe]()
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
 ## <a name="English"></a> English
 [Short Version](#short)
 
-We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to Nation there is the great opportunity to ride your bike. Also this year you can avoid overcrowded, stuffy trains and shuttle busses an take our scouted bike route.
+We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to Nation there is the great opportunity to ride your bike. Also this year you can avoid overcrowded, stuffy trains and shuttle busses an take enjoy our scouted bike route.
 
 After last year's success, we are once again offering a top-class medium-sportive event. This year we offer *four* guided bike tours for the journey: 
-- from north BerlinerFriday at 10.30 Uhr and 14:30 Uhr from [Blochplatz near S Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 45 km long. 
+- from north Berliner friday at 10.30 Uhr and 14:30 Uhr from [Blochplatz near S Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 45 km long. 
 - from Hennigsdorf friday at 11:30 and 15:30 Uhr on an even shorter route. From [S-Bahn station Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it's only 24 km to NoG.
  
 Each group will be accompanied by three experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
@@ -76,8 +76,8 @@ Please note the following so that we can all have a relaxed journey:
 ### <a name="short"></a> Short Version
 **"This is all too much text for me!"** We even thought of you! Here's the short version again:
 - Cycling to the nation together, 4 rides offerd
-- Friday 11:30 and 15:30, 45 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
-- Freitag 11:30 und 15:30, 24 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
+- Friday 22.7 at 11:30 and 15:30, 45 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
+- Friday at 11:30 and 15:30, 24 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
 - Register _until thursday, 22.7. 12:00_ at: [Nation bike tour registration]()
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
