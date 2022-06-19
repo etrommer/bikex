@@ -64,7 +64,7 @@ routes:
  - Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
 For joining the group ride you only need a festival ticket.
-For the safe storrage of your bike at the destination we recomend a ["bike coat check ticket" in german:Fahradgadrobenticket](https://www.tixforgigs.com/de-DE/Event/42028), otherwise you have to park your bike in the camping area.
+For the safe storrage of your bike at the destination we recomend a ["bike coat check ticket" Fahradgadrobenticket](https://www.tixforgigs.com/de-DE/Event/42028), otherwise you have to park your bike in the camping area.
 
 **"I'm not that sporty!"** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time. 
 
