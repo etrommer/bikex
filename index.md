@@ -13,8 +13,9 @@ Nach dem Erfolg im letzten Jahr gibt es wieder ein von uns angeleiertes medium-s
  
 Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
-Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
-Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd) [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
+Routen:
+ - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
+ - Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd) [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
 Zur Mitfahrt braucht ihr nur ein Festivalticket.
 Für die sichere Verwahrung eures Fahrrads vor Ort ist ein [Fahrradgardrobenticket](https://www.tixforgigs.com/de-DE/Event/42028) empfehlenswert, sonst müsst ihr euer Fahrrad auf dem Zeltplatz parken.
@@ -58,8 +59,9 @@ After last year's success, we are once again organizing a top-class medium-sport
  
 Each group will be accompanied by three experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
 
-Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
-Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
+routes:
+ - Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
+ - Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
 For joining the group ride you only need a festival ticket.
 For the safe storrage of your bike at the destination we recomend a ["bike coat check ticket" (Fahradgadrobenticket)]((https://www.tixforgigs.com/de-DE/Event/42028)), otherwise you have to park your bike in the camping area.
