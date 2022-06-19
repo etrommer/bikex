@@ -16,6 +16,8 @@ Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen b
 Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
 Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd) [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
+Zur Mitfahrt braucht ihr nur ein Festivalticket.
+Für die sichere Verwahrung eures Fahrrads vor Ort ist ein [Fahrradgardrobenticket](https://www.tixforgigs.com/de-DE/Event/42028) empfehlenswert, sonst müsst ihr euer Fahrrad auf dem Zeltplatz parken.
 
 **"So sportlich bin ich nicht!"**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
 
@@ -26,7 +28,7 @@ Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Wir fahren eh und haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 21.7. 12:00_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung]()
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 21.7. 12:00_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
 - Beschriftet euer Gepäck mit Namen und Adresse. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -59,6 +61,9 @@ Each group will be accompanied by three experienced to Grünefeld and back-cycli
 Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
 Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
+For joining the group ride you only need a festival ticket.
+For the safe storrage of your bike at the destination we recomend  ["bike coat check" (Fahradgadrobenticket)]((https://www.tixforgigs.com/de-DE/Event/42028)), otherwise you have to park your bike in the camping area.
+
 **"I'm not that sporty!"** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time. 
 
 **"But I always do a world-class performance in record time"**  we hear you say right there in the back. You can! We publish our routes beforehand in various formats. If you want to go fast, find a buddy and hit the road when it gets too slow for you. 
@@ -68,7 +73,7 @@ Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/rout
 **"Surely that costs extra!"**, we can hear you shouting. But no! It's free! We're going anyway and we'd love to have you with us :)
 
 Please note the following so that we can all have a relaxed journey:
-- Register on the following form _until thursday, 21.7. 12:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration]()
+- Register on the following form _until thursday, 21.7. 12:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
 - Label your luggage with your name and address.
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike fit for spring.
