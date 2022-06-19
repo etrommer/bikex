@@ -15,4 +15,4 @@ Gepäcktransport für Mitfahrende nach vorheriger Anmeldung bis Donnerstag 21.07
 - Wir fahren gemächliches Tempo und richten uns nach den Langsamsten 
 
 Alle Infos ausführlich: [Hier entlang](https://bikexberlin.github.io/)
-  -[Telegram Gruppe https://t.me/+XsqBDVuJKdsyMWUy ](https://t.me/+XsqBDVuJKdsyMWUy) zum Austausch zur Fahrradtour
+  - [Telegram Gruppe https://t.me/+XsqBDVuJKdsyMWUy ](https://t.me/+XsqBDVuJKdsyMWUy) zum Austausch zur Fahrradtour
