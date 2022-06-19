@@ -9,7 +9,7 @@ Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für al
 
 Nach dem Erfolg im letzten Jahr gibt es wieder ein von uns angeleiertes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir *vier* geführte Fahrradtouren für die Anreise an: 
 - aus dem Berliner Norden am Freitag jeweils 10:30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
-- von Hennigsdorf Freitag jeweils 11:30 Uhr und 15:30 Uhr auf der deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch 24 km zur NoG.
+- von Hennigsdorf Freitag jeweils 11:30 Uhr und 15:30 Uhr auf der deutlich kürzeren Strecke. Vom [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S-Bahnhof Hennigsdorf aus sind es nur noch 24 km zur NoG.
  
 Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
@@ -53,8 +53,8 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to Nation there is the great opportunity to ride your bike. Also this year you can avoid overcrowded, stuffy trains and shuttle busses an take enjoy our scouted bike route.
 
 After last year's success, we are once again organizing a top-class medium-sportive event. This year we offer *four* guided bike tours for the journey: 
-- from north Berliner friday at 10.30 Uhr and 14:30 Uhr from [Blochplatz near S Gesundbrunnen](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590). The route is about 45 km long. 
-- from Hennigsdorf friday at 11:30 and 15:30 Uhr on an even shorter route. From [S-Bahn station Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) it's only 24 km to NoG.
+- from north Berliner friday at 10.30 Uhr and 14:30 Uhr from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) near S+U station Gesundbrunnen. The route is about 45 km long. 
+- from Hennigsdorf friday at 11:30 and 15:30 Uhr on an even shorter route. From [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S-Bahn station Hennigsdorf it's only 24 km to NoG.
  
 Each group will be accompanied by three experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
 
