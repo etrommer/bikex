@@ -5,11 +5,11 @@
 ## Deutsch
 [Kurzfassung](#Kurzfassung)
 
-Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle die von Berlin aus zur Nation wollen bietet sich die Möglichkeit der Anreise mit dem Fahrrad. Auch in diesem Jahr könnt ihr so übervolle, stickige Züge und Shuttlebusse vermeiden und die von uns ausgekundschaftete Strecke genießen.
+Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für alle die von Berlin aus zur Nation wollen, bietet sich die Möglichkeit der Anreise mit dem Fahrrad. Auch in diesem Jahr könnt ihr so übervolle, stickige Züge und Shuttlebusse vermeiden und die von uns ausgekundschaftete Strecke genießen.
 
-Nach dem Erfolg im Letzten Jahr gibt es wieder ein von uns angeleiertes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir *vier* geführte Fahrradtouren für die Anreise an: 
-- aus dem Berliner Norden am Freitag jeweils 10.30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
-- von Hennigsdorf Freitag jeweils 11:30 Uhr und 15:30 Uhr auf der noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km zur NoG.
+Nach dem Erfolg im letzten Jahr gibt es wieder ein von uns angeleiertes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir *vier* geführte Fahrradtouren für die Anreise an: 
+- aus dem Berliner Norden am Freitag jeweils 10:30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
+- von Hennigsdorf Freitag jeweils 11:30 Uhr und 15:30 Uhr auf der deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch 24 km zur NoG.
  
 Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
@@ -62,7 +62,7 @@ Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-
 Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
 For joining the group ride you only need a festival ticket.
-For the safe storrage of your bike at the destination we recomend  ["bike coat check" (Fahradgadrobenticket)]((https://www.tixforgigs.com/de-DE/Event/42028)), otherwise you have to park your bike in the camping area.
+For the safe storrage of your bike at the destination we recomend a ["bike coat check ticket" (Fahradgadrobenticket)]((https://www.tixforgigs.com/de-DE/Event/42028)), otherwise you have to park your bike in the camping area.
 
 **"I'm not that sporty!"** you might be thinking. We say: Yes, you are! Together as a group we ride at a leisurely pace, taking pee/drink and short rest breaks wherever necessary and desirable. We want to experience at least a pleasant, at best an ultra-fun tour together, not a world-class performance in record time. 
 
