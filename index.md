@@ -54,7 +54,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 We would like to encourage you to begin the trip to the parallel universe by bicycle. For everybody traveling from Berlin to Nation there is the great opportunity to ride your bike. Also this year you can avoid overcrowded, stuffy trains and shuttle busses an take enjoy our scouted bike route.
 
 After last year's success, we are once again organizing a top-class medium-sportive event. This year we offer *four* guided bike tours for the journey: 
-- from north Berliner friday at 10.30 Uhr and 14:30 Uhr from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) near S+U station Gesundbrunnen. The route is about 45 km long. 
+- from north Berlin friday at 10.30 Uhr and 14:30 Uhr from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) near S+U station Gesundbrunnen. The route is about 45 km long. 
 - from Hennigsdorf friday at 11:30 and 15:30 Uhr on an even shorter route. From [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S-Bahn station Hennigsdorf it's only 24 km to NoG.
  
 Each group will be accompanied by three experienced to Grünefeld and back-cyclists who will accompany you smoothly to our destination. Nevertheless, we recommend that you have the routes with you on your GPS-compatible communication device. Maps.me, for example, is a good app with offline map material for Brandenburg's dead spots.
