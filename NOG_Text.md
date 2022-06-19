@@ -1,7 +1,7 @@
 4 Gemeinsame Touren am Freitag 22.07.22:
-  - 2x ab Blochplatz a, S+U Bhf. Gesundbrunnen (ca. 47km)
+  - 2x ab Blochplatz a, S+U Bhf. Gesundbrunnen (ca. 45km)
     - 10.30 Uhr und 14:30 Uhr
-  - 2x ab Postplatz am S Bhf. Hennigsdorf (ca. 24km)
+  - 2x ab Postplatz am S Bhf. Hennigsdorf (ca. 25km)
     - 11:30 Uhr und 15:30 Uhr 
   - für die Mitfahrt braucht ihr ein Festivalticket 
   - Für die sichere Verwahrung eures Fahrrads vor Ort ist ein [Fahrradgardrobenticket](https://www.tixforgigs.com/de-DE/Event/42028) empfehlenswert, sonst müsst ihr euer Fahrrad auf dem Zeltplatz parken.
