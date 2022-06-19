@@ -9,12 +9,12 @@ Wer hat Lust den Trip ins Paralleluniversum mit dem Fahrrad zu beginnen? Für al
 
 Nach dem Erfolg im Letzten Jahr gibt es wieder ein von uns angeleiertes medium-sportives Event der Extraklasse. In diesem Jahr bieten wir *vier* geführte Fahrradtouren für die Anreise an: 
 - aus dem Berliner Norden am Freitag jeweils 10.30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S Gesundbrunnen aus los. Die Strecke ist etwa 45 km lang. 
-- von Hennigsdorf Freitag jeweils 11:30 UHr und 15:30 Uhr auf der noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km zur NoG.
+- von Hennigsdorf Freitag jeweils 11:30 Uhr und 15:30 Uhr auf der noch deutlich kürzeren Strecke. Vom [S-Bahnhof Hennigsdorf](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) aus sind es nur noch läppische 24 km zur NoG.
  
 Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel maps.me.
 
-Berlin - Nation: [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
-Hennigsdorf - Nation: [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
+Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
+Hennigsdorf - Nation: [Komoot](https://www.komoot.de/tour/411302440?share_token=a1kX8DDfPKZkiTWpG3mDCfmOOAhfXs6VDJTtrF71WDLwOosw4f&ref=wtd) [KML](assets/routes/Hennigsdorf-NoG.kml) [GPX](assets/routes/Hennigsdorf-NoG.gpx)
 
 
 **"So sportlich bin ich nicht!"**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
@@ -37,11 +37,11 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - 4 gemeinsame Touren am Freitag 22.7.:
 - Freitag 10:30 und 14:30, 45 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
 - Freitag 11:30 und 15:30, 24 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Bis zum _Donnerstag 21.7., 12:00_ hier registrieren: [Nation Fahrradtour Anmeldung]()
+- Bis zum _Donnerstag 21.7., 12:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
-- Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe]()
+- Telegram-Gruppe für Austausch und Fragen: [Telegram Gruppe](https://t.me/+XsqBDVuJKdsyMWUy)
 
 **Kommt in Fahrt mit uns! Wir freuen uns auf euch.**
 
@@ -78,10 +78,10 @@ Please note the following so that we can all have a relaxed journey:
 - Cycling to the nation together, 4 rides offerd
 - Friday 22.7 at 11:30 and 15:30, 45 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
 - Friday at 11:30 and 15:30, 24 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
-- Register _until thursday, 22.7. 12:00_ at: [Nation bike tour registration]()
+- Register _until thursday, 22.7. 12:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
-- If you have any questions please join our Telegram group: [telegram]()
+- If you have any questions please join our Telegram group: [telegram group](https://t.me/+XsqBDVuJKdsyMWUy)
 
 **Get going with us! We look forward to seeing you.**
