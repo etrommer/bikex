@@ -11,7 +11,7 @@ Nach den Erfolgen in den letzten Jahren gibt es wieder ein von uns angeleiertes 
 - aus dem Berliner Norden am Freitag jeweils 10:30 Uhr und 14:30 Uhr geht es vom [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen aus los. Die Strecke ist etwa 42 km lang. 
 - von Hennigsdorf Freitag jeweils 11:30 Uhr, 15:30 Uhr, und 17.30 Uhr auf der deutlich kürzeren Strecke. Vom [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S-Bahnhof Hennigsdorf aus sind es nur noch 22 km zur NoG.
  
-Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel die app OsmAnd.
+Jede Gruppe wird von drei erfahrenen nach-Grünefeld-und-zurück-Radler\*innen begleitet, die euch leichtfüßig zum Ziel begleiten werden. Dennoch empfehlen wir, die Routen auch auf eurem GPS-tauglichen Kommunikationsgerät dabei zu haben. Als App mit Offline-Kartenmaterial für brandenburgische Funklöcher eignet sich zum Beispiel OsmAnd.
 
 Routen:
  - Berlin - Nation: [Komoot](https://www.komoot.de/tour/411300513?share_token=aciq15fns0Rq2vZ6X0RawVUbwtjf9GdDD0o5OA4W4Zae0zkWZ7&ref=wtd) [KML](assets/routes/Berlin-NoG.kml) [GPX](assets/routes/Berlin-NoG.gpx)  
