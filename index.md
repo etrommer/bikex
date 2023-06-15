@@ -29,7 +29,7 @@ Für die sichere Verwahrung eures Fahrrads vor Ort ist ein [Fahrradgardrobentick
 **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Die Nation supportet die Touren und wir haben euch gern mit dabei :)
 
 Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
-- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 19.7. 18:00 Uhr_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
+- Bitte meldet euch auf folgendem Formular an, wenn ihr mitfahren wollt. Wir benötigen bis zum _Donnerstag, 19.7. 18:00 Uhr_ eine Info über die ungefähre Anzahl Teilnehmender, um den Gepäcktransport gut planen zu können: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Beschriftet euer Gepäck mit Namen und Adresse. 
 - Bringt nicht mehr als 1 großes Gepäckstück + Zelt für das Gepäckshuttle mit. Zusätzlicher Raum würde anderen Reisenden fehlen.
 - Kontrolliert vor der Abfahrt die Verkehrstüchtigkeit eures Transportmittels. Wir haben Flickzeug für den Notfall dabei, würden uns aber lieber gemeinsam in Richtung Realitätsflucht bewegen als erstmal dein zu lange im Keller vergessenes Drahteselchen frühjahrstauglich zu machen.
@@ -40,7 +40,7 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 - 4 gemeinsame Touren am Freitag 21.7.:
 - Freitag 21.7, *10:30* und *14:30*, 42 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
 - Freitag 21.7, *11:30*, *15:30* und *17:30*, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
-- Bis zum _Donnerstag 19.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
+- Bis zum _Donnerstag 19.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
 - Gemächliches Tempo. Wir fahren keine Rennen und richten uns nach den Langsamsten.
@@ -75,7 +75,7 @@ For the safe storrage of your bike at the destination we recomend a ["bike coat 
 **"Surely that costs extra!"**, we can hear you shouting. But no! It's free! NoG is supporting this initative and we'd love to have you with us :)
 
 Please note the following so that we can all have a relaxed journey:
-- Register on the following form _until thursday, 19.7. 18:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
+- Register on the following form _until thursday, 19.7. 18:00_ if you want to come along. We need information about the approximate number of participants to be able to plan the luggage transport. [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Label your luggage with your name and address.
 - Do not bring more than 1 large piece of luggage + tent for the luggage shuttle. Additional space would be missing for other travellers.
 - Check the roadworthiness of your transport device before departure. We have repair kits with us for emergencies, but would rather move together towards escaping reality than first making your bike ready for spring.
@@ -85,7 +85,7 @@ Please note the following so that we can all have a relaxed journey:
 - Cycling to the nation together, 5 rides offerd
 - Friday 21.7 at *11:30* and *15:30*, 42 km from [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) at S+U Gesundbrunnen
 - Friday 21.7 at *11:30*, *15:30* and *17.30*  22 km from [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) at S Hennigsdorf
-- Register _until thursday, 19.7. 18:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/f1yyAn4pmHMCXT6t6ePX3R++HZG2Xbn2qqFD4hEqr70/)
+- Register _until thursday, 19.7. 18:00_ at: [Nation bike tour registration](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - We can transport up to 1 tent + 1 piece of luggage to Grünefeld. There is no return transport.
 - Label your luggage with your name and address.
 - Leisurely pace. We don't race and we stay with the slowest riders.
