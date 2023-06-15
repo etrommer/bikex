@@ -37,9 +37,9 @@ Damit wir alle gemeinsam eine möglichst entspannte Anfahrt teilen können:
 ### <a name="Kurzfassung"></a> Kurzfassung
 **"Das ist mir alles zu viel Text!"** Sogar an dich haben wir gedacht! Hier nochmal die Kurzversion:
 - Zusammen mit dem Fahrrad zur Nation
-- 4 gemeinsame Touren am Freitag 21.7.:
-- Freitag 21.7, **10:30** und **14:30**, 42 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
-- Freitag 21.7, **11:30**, **15:30** und **17:30**, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
+- 5 gemeinsame Touren am Freitag 21.7.:
+- Freitag, **10:30** und **14:30**, 42 km ab [Blochplatz](https://www.openstreetmap.org/?mlat=52.54940&mlon=13.38590#map=19/52.54940/13.38590) am S+U Gesundbrunnen
+- Freitag, **11:30**, **15:30** und **17:30**, 22 km ab [Postplatz](https://www.openstreetmap.org/?mlat=52.63762&mlon=13.20489#map=18/52.63762/13.20489) am S Hennigsdorf
 - Bis zum _Donnerstag 19.7., 18:00_ hier registrieren: [Nation Fahrradtour Anmeldung](https://cryptpad.fr/form/#/2/form/view/YAZqcRuNi8kF901zyef7Bkjm0oyjYt4m1QpJA8aoOok/)
 - Bis zu 1 Zelt + 1 Gepäckstück können wir für euch nach Grünefeld transportieren. Es gibt keinen Rücktransport.
 - Beschriftet euer Gepäck mit Namen und Adresse
