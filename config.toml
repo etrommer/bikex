@@ -1,0 +1,32 @@
+# The URL the site will be built for
+title = "BikeX Berlin"
+base_url = "https://www.etrommer.de/bikex"
+default_language = "de"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+generate_feed = false
+build_search_index = false
+minify_html = true
+
+theme = "tabi"
+
+[extra]
+socials = [
+    { name = "telegram", url = "https://telegram.com", icon = "telegram" },
+]
+menu = [
+    { name = "FAQ", url = "faq", trailing_slash = true },
+    { name = "imprint", url = "imprint", trailing_slash = true },
+]
+show_reading_time = false
+
+
+[languages.en]
+title = "BikeX Berlin"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
