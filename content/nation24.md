@@ -1,8 +1,8 @@
 +++
 title = "Nation of Gondwana 2024"
-date = 2024-07-21
-updated = 2024-03-26
-description = "von Berlin nach Grünefeld"
+date = 2024-07-19
+updated = 2024-04-11
+description = "von Berlin-Wedding und Hennigsdorf zur Nation of Gondwana, Grünefeld, 19.7.-21.7.2024"
 +++
 Nation '24 infos
 adfadfa
