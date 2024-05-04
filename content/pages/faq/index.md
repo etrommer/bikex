@@ -4,10 +4,16 @@ template = "info-page.html"
 insert_anchor_links = "left"
 path = "faq"
 +++
-- **"So sportlich bin ich nicht!"**, zweifelt ihr jetzt vielleicht. Wir sagen: Doch, bestimmt! Gemeinsam als Gruppe fahren wir in gemächlichem Tempo und machen Pipi-/Trink- und kurze Erholungspausen, wo immer es nötig und erwünscht ist. Wir wollen eine mindestens angenehme, bestenfalls ultraspaßige Tour zusammen erleben, keine sportliche Meisterleistung in Rekordzeit. 
+## _**"Schaffe ich das überhaupt?"**_  
+Wir bieten verschiedene Touren an! Als grobe Orientierung: Strecken bis ca. 40km sollten auch für untrainierte Menschen mit halbwegs intakten Fahrrädern ohne größere Probleme möglich sein. Längere Strecken sind in der Regel auch kein Problem, die solltet ihr aber am Besten vorher schon einmal ausprobiert haben.
 
-- **"Ich fahre aber immer Meisterleistung in Rekordzeit"** wird doch da hinten direkt irgendwo losgeningelt. Kannste! Wir veröffentlichen unsere Routen hier in verschiedenen Formaten. Wenn du Bock hast schnell zu fahren, such dir Gleichgesinnte und hau rein, wenn es dir bei uns zu langsam wird. 
+## _**"An was muss ich sonst noch denken?"**_  
+Bitte überprüfe dein Fahrrad ein paar Tage vorher auf Fahrtauglichkeit. Wir haben ein bißchen Equipment für Notfälle dabei, aber das vor 3 Jahren am Bahnhof vergessene Fahrrad von deiner Oma können wir vor Ort auch nicht mehr retten. Bitte denkt außerdem an die folgenden Sachen:
+- Schlüssel für Pitlocks o.ä. Sicherungssysteme für den Fall einer Panne. Falls ihr wisst, dass euer Fahrrad anderes Spezialwerkzeug benötigt, denkt bitte daran es einzupacken!
+- Wasser
+- Sonnencreme
+- Helm (oder wenns heiß ist zumindest eine Kopfbedeckung)
+- Bei Touren >40 km gibts in der Regel mehrere Pausen mit Einkaufsmöglichkeit, aber ein paar Snacks für den Notfall dabei zu haben schadet nie!
 
-- **"Aber wohin mit meinem Festivalgepäck?"**, fragt ihr euch jetzt vielleicht. Verstehen wir. Gerade auf der Hinfahrt ist die Gepäcksituation häufig etwas umfangreicher. Darum: Für diejenigen angemeldeten Tourteilnehmer\*innen ohne Profigepäckinstallationsausstattung am Rad organisieren wir einen Gepäcktransport, der euch ein großes Gepäckstück und ein Zelt zur Nation fährt, damit ihr den Rücken frei habt für Wind. Bitte habt Verständnis dafür, dass wir diesen Service auf dem Rückweg nicht anbieten können. Wir hoffen, dass ihr eure Sachen dann leichter sind oder sie in den Autos eurer Realitätsfluchthelfer\*innengemeinschaft einen Platz gefunden haben.
-
-- **"Das kostet doch sicher extra!"**, hören wir euch förmlich rufen. Aber nee! Ist gratis! Die Nation supportet die Touren und wir haben euch gern mit dabei :)
+## _**"Okay, ich und mein Vollcarbon-Rennrad plus Aerosuit sind am Start! Wo Belgischer Kreisel?"**_  
+Wir fahren in gemächlichem Tempo und richten uns nach den Langsamsten! Wenn du Lust auf Tour de France hast dann lad dir 'ne Route runter, schnapp dir eine\*n Buddy und haut rein!
